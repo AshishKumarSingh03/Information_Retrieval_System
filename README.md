@@ -43,6 +43,12 @@ Now,
 ```bash
 open up : http://localhost:8501
 ```
+## Demo Video
+
+[![Demo Video](https://img.youtube.com/vi/KwVEBtSXkEQ/0.jpg)](https://www.youtube.com/watch?v=KwVEBtSXkEQ)
+
+Click the image above to watch the demo video.
+
 
 
 ### Techstack Used:
