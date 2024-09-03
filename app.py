@@ -39,5 +39,14 @@ def main():
 
 
 
+st.markdown("""
+<div class="footer">
+© Made by Ashish Kumar Singh 
+    
+</div>
+""", unsafe_allow_html=True)
+
+
+
 if __name__ == "__main__":
     main()
